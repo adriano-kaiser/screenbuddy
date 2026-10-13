@@ -41,3 +41,7 @@ Push a version tag; GitHub Actions builds a universal (Apple Silicon + Intel) ap
 ```bash
 git tag v1.0.0 && git push origin v1.0.0
 ```
+
+## License
+
+[MIT](LICENSE)
